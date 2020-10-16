@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-g -Wall -O0
+CFLAGS=-O0
 LDFLAGS=
 
 all: meth_pot
